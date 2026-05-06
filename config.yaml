@@ -34,7 +34,7 @@ summary:
 
 # —— 邮件发送（QQ 邮箱） ——
 email:
-  enabled: true
+  enabled: false
   subject: "[arXiv] Daily Digest"
   smtp_server: "smtp.qq.com"
   smtp_port: 465
